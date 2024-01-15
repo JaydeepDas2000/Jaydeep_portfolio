@@ -197,7 +197,7 @@ img{
   margin-bottom: var(--mb-5);
 }
 .home__title-color{
-  color: red;
+  color: var(--first-color);
 }
 .home__social{
   display: flex;
